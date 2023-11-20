@@ -1,0 +1,1 @@
+flash the MECR_V1.2 Code to esp32
