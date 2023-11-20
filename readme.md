@@ -1,4 +1,5 @@
 # MECR_V1 Medical Device
+![Alt text](https://github.com/rbuwaENG/MECR_V1.0_Project/blob/main/IMAGE.jpeg?raw=true)
 MECR_V1 is a medical device that is controlled by a mobile application using ESP32, L298, lithium iron batteries, servo motors, gear motors, and ultrasonic sensors.
 
 ## Features
